@@ -17,6 +17,7 @@ body{
     grid-template-rows: minmax(120px,auto)repeat(5,80px);
     width:90vw;
     max-width:400px;
+    border:none;
 }
 .calculator-grid  > button {
     cursor: pointer;
